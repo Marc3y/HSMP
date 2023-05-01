@@ -1,0 +1,16 @@
+name: HSMP
+version: '${project.version}'
+main: de.marcey.hsmp.HSMP
+api-version: 1.19
+commands:
+  rang:
+  clan:
+  hsmp:
+  spawnelytra:
+  openend:
+  sit:
+  spawn:
+  stats:
+  playtime:
+  settings:
+  pvp:
